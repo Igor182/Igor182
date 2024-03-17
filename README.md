@@ -1,7 +1,4 @@
-### Olá, me chamo Igor e sou estudante de Sistemas de Informação, e atualmente estou estudando desenvolvimento Back-End com Java! 👋
-
-
-- 🌱 Estudando Java
+- 🌱☕ Java Student
 
  
  <div style="display: inline_block"><br>
